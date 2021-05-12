@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋
+#### I'm a 12 yo programmer. I like Python and C#. BTW I use Arch (I love linux). 
 
-<!--
-**GGORG0/GGORG0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My projects
+#### Currently I'm working on 4 projects.
+* NgnixDownloader - A downloader for web servers (not only ngnix) with directory listings
+* [Akumulator](https://ggorg.tk/dc) - A multifunctional Polish Discord bot. [Invite me to your server!](https://ggorg.tk/bot) [Also, join the testing server.](https://ggorg.tk/dc)
+* PicSH (Will release soon) - A Bash-like shell written in Python, with its own package and script system. Also, I'm coding it with my friend https://github.com/HXM4Tech
+* [My website](https://ggorg.tk)
 
-Here are some ideas to get you started:
+### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python (most used)
+* C#/.NET Core (Framework is bad I promise)
+* Linux Bash
+* A bit of C++
+* Some HTML
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGORG0&count_private=true&theme=dark&show_icons=true&hide_langs_below=1")
+
+Yes, I'm Polish.
