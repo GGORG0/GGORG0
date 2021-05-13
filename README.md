@@ -18,4 +18,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGORG0&count_private=true&theme=dark&show_icons=true&hide_langs_below=1")
 
+### Stats
+![My stats](https://github-readme-stats.vercel.app/api?username=GGORG0&count_private=true&theme=dark&show_icons=true)
+
+
 Yes, I'm Polish.
