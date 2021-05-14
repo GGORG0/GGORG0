@@ -3,7 +3,7 @@
 
 ### My projects
 #### Currently I'm working on 4 projects.
-* NgnixDownloader - A downloader for web servers (not only ngnix) with directory listings
+* WebDownloader - A downloader for web servers with directory listings
 * [Akumulator](https://ggorg.tk/dc) - A multifunctional Polish Discord bot. [Invite me to your server!](https://ggorg.tk/bot) [Also, join the testing server.](https://ggorg.tk/dc)
 * PicSH (Will release soon) - A Bash-like shell written in Python, with its own package and script system. Also, I'm coding it with my friend https://github.com/HXM4Tech
 * [My website](https://ggorg.tk)
