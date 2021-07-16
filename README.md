@@ -8,7 +8,7 @@ My website is currently down
 ### My projects
 #### Currently I'm working on those projects:
 * [Akumulator](https://ggorg.tk/dc) - A multifunctional Polish Discord bot. [Invite me to your server!](https://ggorg.tk/bot) [Also, join the testing server.](https://ggorg.tk/dc)
-* [SharX aka. ShareX-Python](https://github.com/GGORG0/ShareX-Python)
+* [SharX aka. ShareX-Python](https://github.com/GGORG0/ShareX-Python) - A ShareX uploader written in Python
 
 ### Languages
 
