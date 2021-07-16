@@ -27,5 +27,5 @@
 ### Discord
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/819845763848601611)](https://discord.com/users/819845763848601611)
 
-[![DiscordPresence](https://discord.c99.nl/widget/theme-1/819845763848601611.png)](https://discord.com/users/819845763848601611)
+[![DiscordPresence](https://discord.c99.nl/widget/theme-4/819845763848601611.png)](https://discord.com/users/819845763848601611)
 
