@@ -2,7 +2,8 @@
 #### I'm a 13 yo Polish programmer. I code in Python. BTW I use Arch (I love linux). 
 
 ### My website
-#### Why don't you visit my new webiste [ggorg.tk](https://ggorg.tk/)?
+<!--- Why don't you visit my new webiste [ggorg.tk](https://ggorg.tk/)? -->
+My website is currently down 
 
 ### My projects
 #### Currently I'm working on those projects:
