@@ -5,10 +5,13 @@
 <!--- Why don't you visit my new webiste [ggorg.tk](https://ggorg.tk/)? -->
 My website is currently down 
 
+### GitLab profile
+#### Also check out my [GitLab profile](https://gitlab.com/GGORG) for other repos.
+
 ### My projects
 #### Currently I'm working on those projects:
 * [Akumulator](https://ggorg.tk/dc) - A multifunctional Polish Discord bot. [Invite me to your server!](https://ggorg.tk/bot) [Also, join the testing server.](https://ggorg.tk/dc)
-* [SharX aka. ShareX-Python](https://github.com/GGORG0/ShareX-Python) - A ShareX uploader written in Python
+* [SharX aka. ShareX-Python](https://gitlab.com/GGORG/SharX) (GitLab) - A ShareX uploader written in Python
 
 ### Languages
 
