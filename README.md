@@ -18,7 +18,7 @@ My website is currently down
 * Python (most used)
 * C#/.NET Core (Framework is bad I promise)
 * Linux Bash
-* A bit of C++
+* Learning C++
 * HTML
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGORG0&count_private=true&theme=dark&show_icons=true&hide_langs_below=1")
