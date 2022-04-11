@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### I'm a 13 yo Polish programmer. I code in Python and JS. BTW I use Arch (I love linux). 
+#### I'm a 13 yo Polish programmer. I code in Python and TS. BTW I use Arch (I love linux). 
 
 ### My website
 Why don't you visit my new webiste [ggorg.tk](https://ggorg.tk/)?
