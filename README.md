@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### I'm a 13 yo Polish programmer. I code in Python. BTW I use Arch (I love linux). 
+#### I'm a 13 yo Polish programmer. I code in Python and JS. BTW I use Arch (I love linux). 
 
 ### My website
 Why don't you visit my new webiste [ggorg.tk](https://ggorg.tk/)?
@@ -8,15 +8,11 @@ Why don't you visit my new webiste [ggorg.tk](https://ggorg.tk/)?
 ### GitLab profile
 #### Also check out my [GitLab profile](https://gitlab.com/GGORG) for other repos.
 
-### My projects
-#### Currently I'm working on those projects:
-* [Akumulator](https://ggorg.tk/dc) - A multifunctional Polish Discord bot. [Invite me to your server!](https://ggorg.tk/bot) [Also, join the testing server.](https://ggorg.tk/dc)
-* [SharX aka. ShareX-Python](https://gitlab.com/GGORG/SharX) (GitLab) - A ShareX uploader written in Python
-
 ### Languages
 
 * Python (most used)
-* C#/.NET Core (Framework is bad I promise)
+* TypeScript (love it)
+* JS
 * Linux Bash
 * Learning C++
 * HTML
