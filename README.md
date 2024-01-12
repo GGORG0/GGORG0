@@ -1,5 +1,6 @@
 ## Hi there 👋
-#### I'm a 14 yo programmer from Poland. Rust, Python and TypeScript fan. BTW I use Arch (I love linux). Check out my website for more info.
+
+I'm a 14 yo programmer from Poland. Rust, Python and TypeScript fan. Check out https://ggorg.xyz for all the info you want!
 
 ### GitLab profile
 Also check out my [GitLab profile](https://gitlab.com/GGORG) for other repos.
